@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaman Chandini</h1>
 <h3 align="center">An Inquisitive Learner🙂</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning nothing.
 - 👀 I’m interested in Tech stuffs.
 - 📫 How to reach me **schandini2801@gmail.com**
 
