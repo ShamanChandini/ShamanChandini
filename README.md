@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning nothing.
 - 👀 I’m interested in Tech stuffs.
-- 📫 How to reach me **schandini2801@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
