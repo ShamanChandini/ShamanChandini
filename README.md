@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaman Chandini</h1>
 <h3 align="center">An Inquisitive Learner🙂</h3>
 
-- 🌱 I’m currently learning nothing.
+- 🌱 I’m currently learning.
 - 👀 I’m interested in Tech stuffs.
 
 
