@@ -23,34 +23,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamanchandini&show_icons=true&locale=en&layout=compact" alt="shamanchandini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamanchandini&show_icons=true&locale=en" alt="shamanchandini" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamanchandini&" alt="shamanchandini" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 ShamanChandini/ShamanChandini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
