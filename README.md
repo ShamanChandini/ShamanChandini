@@ -29,6 +29,6 @@
   
 <a href="https://www.codechef.com/users/shamann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shamann" height="30" width="40" /></a>
   
-<a href="https://g.dev/Shaman_Chandini" target="blank"><img align="center" src=" ![image](https://user-images.githubusercontent.com/89247662/178928544-90f8db65-48e3-42ef-a501-561ce4f65b14.png)" height="30" width="40" /></a>  
+<a href="https://g.dev/Shaman_Chandini" target="blank"><img align="center" src="https://imgs.search.brave.com/Oq9B2NHoawa1maragqgKmUefKxoqmVlSUql4yb49wsI/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2dvb2dsZS1k/ZXZlbG9wZXJzLWxv/Z28tcG5nLWdvb2ds/ZS1kZXZlbG9wZXJz/LTUxMi5wbmc" height="30" width="40" /></a>  
  </p>
 
