@@ -28,5 +28,7 @@
 <a href="https://www.facebook.com/asifa.begum.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamanchandini" height="30" width="40" /></a>
   
 <a href="https://www.codechef.com/users/shamann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shamann" height="30" width="40" /></a>
-</p>
+  
+<a href="https://g.dev/Shaman_Chandini" target="blank"><img align="center" src=" ![image](https://user-images.githubusercontent.com/89247662/178928544-90f8db65-48e3-42ef-a501-561ce4f65b14.png)" height="30" width="40" /></a>  
+ </p>
 
