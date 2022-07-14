@@ -22,8 +22,3 @@
 <a href="https://www.hackerrank.com/shaman_chandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaman_chandini" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamanchandini&show_icons=true&locale=en&layout=compact" alt="shamanchandini" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamanchandini&" alt="shamanchandini" /></p>
-
-<!---
-ShamanChandini/ShamanChandini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
