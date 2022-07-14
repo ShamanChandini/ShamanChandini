@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanchandini&label=Profile%20views&color=0e75b6&style=flat" alt="shamanchandini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamanchandini" alt="shamanchandini" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shamanchandini" target="blank"><img src="https://img.shields.io/twitter/follow/shamanchandini?logo=twitter&style=for-the-badge" alt="shamanchandini" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
