@@ -17,5 +17,6 @@
 <a href="https://www.hackerrank.com/shaman_chandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaman_chandini" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/shamanchandini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaman chandini" height="30" width="40" /></a>  
 <a href="https://g.dev/Shaman_Chandini" target="blank"><img align="center" src="https://imgs.search.brave.com/Oq9B2NHoawa1maragqgKmUefKxoqmVlSUql4yb49wsI/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2dvb2dsZS1k/ZXZlbG9wZXJzLWxv/Z28tcG5nLWdvb2ds/ZS1kZXZlbG9wZXJz/LTUxMi5wbmc" height="30" width="40" /></a>  
+ <a href="https://www.twitter.com/shamanchandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamanchandini" height="30" width="40" /></a>
  </p>
 
