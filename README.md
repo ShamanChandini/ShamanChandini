@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust.
 - 👀 I’m interested in Cybersecurity.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamanchandini" alt="shamanchandini" /></a> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -19,6 +19,23 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p></p>
 
 <p align="left"> <a href="https://twitter.com/shamanchandini" target="blank"><img src="https://img.shields.io/twitter/follow/shamanchandini?logo=twitter&style=for-the-badge" alt="shamanchandini" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@shamanchandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamanchandini" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamanchandini" alt="shamanchandini" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
